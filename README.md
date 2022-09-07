@@ -1,16 +1,7 @@
 # ui_trace_20220907
 
-A new Flutter project.
+## 所要時間
+約45分
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## UI
+<img src="https://user-images.githubusercontent.com/82624334/188834231-63e846d2-6249-49b7-ba8c-3bf7a0ae3c5c.png" width="300">
