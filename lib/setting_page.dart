@@ -9,6 +9,19 @@ class SettingPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF2F2F2),
+      appBar: AppBar(
+        title: const Text('Settings'),
+        backgroundColor: Colors.white,
+        foregroundColor: Colors.green,
+        leading: IconButton(
+          onPressed: () {},
+          icon: const Icon(
+            Icons.arrow_back_ios,
+            color: Colors.green,
+          ),
+        ),
+        elevation: 0,
+      ),
       body: ListView(
         children: const [
           SettingTitleContainer(text: 'MY ACCOUNT'),
